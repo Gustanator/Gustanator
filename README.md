@@ -11,7 +11,7 @@ Principais linguagens de programação que eu domino:
 Principais projetos:
  - Várias contribuições para o [SuperTuxKart](https://github.com/supertuxkart/stk-code) (focados na versão mobile, atualização de dependências, etc.)
  - O meu [site pessoal](https://sewerfox.github.io/sewer-hideout/)
- - O site da empresa do meu pai (WIP)
+ - O [site da empresa do meu pai](https://gustanator.github.io/obf-metalurgica/)
  - Alguns projetos de [portfólio](https://github.com/stars/Gustanator/lists/projetos-de-portfolio)
 
 Ferramentas favoritas:
